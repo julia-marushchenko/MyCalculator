@@ -27,6 +27,8 @@ public class Main {
             // Printing answer to console
             System.out.println("Cannot be divided by 3.");
         }
-
+        
+        // Printing result of division to console
+        System.out.println(number / 3);
     }
 }
